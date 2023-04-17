@@ -10,8 +10,7 @@ In this context, automated segmentation was recently attempted using UNet++, a c
 
 **Models:** UNet++, SegCaps
 
-**Dependences:** Python, Pytorch, Tensorflow, Seaborn, Numpy, Pandas, 
-Seaborn
+**Dependences:** Python, Pytorch, Tensorflow, Seaborn, Numpy, Pandas
 
 
 **Performance Metrics:** Dice Score, IOU Score
